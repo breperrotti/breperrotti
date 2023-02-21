@@ -1,5 +1,3 @@
-### Olá!! Sou o Breno Perrotti
-
 -📚 Atualmente estudando Engenharia de Software na FIAP
 -😃 Fique a vontade para entrar em contato!
 
