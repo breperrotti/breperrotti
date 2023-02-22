@@ -1,3 +1,5 @@
+![snake animation](https://github.com/<breperrotti>/<breperrotti>/blob/output/github-contribution-grid-snake2.svg)
+
 -📚 Atualmente estudando Engenharia de Software na FIAP
 -😃 Fique a vontade para entrar em contato!
 
