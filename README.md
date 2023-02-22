@@ -1,4 +1,4 @@
-![snake animation](https://github.com/<breperrotti>/<breperrotti>/blob/output/github-contribution-grid-snake2.svg)
+
 
 -📚 Atualmente estudando Engenharia de Software na FIAP
 -😃 Fique a vontade para entrar em contato!
@@ -21,4 +21,5 @@
   <a href = "mailto:bbperrotti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/breno-perrotti-1b1080254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
+   ![Snake animation](https://github.com/breperrotti/breperrotti/blob/output/github-snake-dark.svg)
 </div>
