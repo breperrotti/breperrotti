@@ -28,5 +28,3 @@
 
 ##
    
- ![Snake animation](https://github.com/breperrotti/breperrotti/blob/output/github-snake-dark.svg)
-</div>
