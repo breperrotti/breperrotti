@@ -1,8 +1,4 @@
 
-
--📚 Atualmente estudando Engenharia de Software na FIAP
--😃 Fique a vontade para entrar em contato!
-
 ##
  <div>
   <a href="https://github.com/breperrotti">
